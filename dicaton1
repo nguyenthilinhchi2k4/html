@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    </head>
+    <body>
+      <h1>ảnh hoa anh đào</h1>
+      <h2> hãy chọn ảnh hoa anh đào bạn thích</h2>
+      <img width="500" title="500"  src="hoaanhdao.jpg" alt="hoa anh đào"/>
+    <img width="500" title="500"  src="hoaanhdao.jpg" alt="hoa anh đào"/>
+    <img width="500" title="500"  src="hoaanhdao.jpg" alt="hoa anh đào"/>
+    <img width="500" title="500"  src="hoaanhdao.jpg" alt="hoa anh đào"/>
+    <img width="500" title="500"  src="hoaanhdao.jpg" alt="hoa anh đào"/>
+    <p>chào mừng bạn đến với bộ sưu tập hoa anh đào</p>
+    <h1>chào mừng các bạn đến với bộ sưu tập hoa anh đào
+        <h2>1. Chọn và tải ảnh mà bạn thích.  </h2>
+        <h3>2. Lưu ảnh mà bạn thích. </h3>
+        <h4>3. Chọn ảnh và đặt làm hình nền thôi nào.</h4>
+        <h5>4. Cảm ơn bạn đã dùng dịch vụ này. </h5>
+        <h6> Nếu bạn thấy thích trang web này thì hãy theo dõi và ủng hộ bằng cách nhấn vào 1,2 quảng cáo nha. </h6> 
+    </body>
+    </html>      
+
